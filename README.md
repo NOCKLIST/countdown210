@@ -1,5 +1,5 @@
 
-![](http://thenocklist.com/javascript/img/works/1.jpg)
+![](http://thenocklist.com/javascript/img/works/2.jpg)
 
 [LIVE DEMO](http://thenocklist.com/javascript/svg/)
 
